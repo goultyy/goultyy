@@ -3,4 +3,5 @@ I'm a first year student studying computer science at Durham University. Present
 
 You can see below for several webpages detailing more about my education and projects:
 
-- [My linkedin](https://www.linkedin.com/in/hayden-nicholson-goult-2b8042388/)
+- [My LinkedIn](https://www.linkedin.com/in/hayden-nicholson-goult-2b8042388/)
+- [My CV](https://h.su.mt/stuff/cv.pdf)
