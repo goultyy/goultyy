@@ -1,5 +1,5 @@
 ## hayden goult
-I'm a first year student studying computer science at Durham University. Presently working on projects relating to finance and public facing websites.
+I'm a second year student studying computer science at Durham University. Presently working on projects relating to finance and public facing websites.
 
 You can see below for several webpages detailing more about my education and projects:
 
